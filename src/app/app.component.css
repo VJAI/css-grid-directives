@@ -1,0 +1,21 @@
+.container {
+  height: 100vh;
+  font-size: 1.5rem;
+}
+
+header {
+  height: 60px;
+  background-color: #a07df2;
+}
+
+aside {
+  background-color: #c7e853;
+}
+
+main {
+  background-color: #f2ef37;
+}
+
+footer {
+  background-color: #ff2873;
+}
